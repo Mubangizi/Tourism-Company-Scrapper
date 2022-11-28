@@ -11,7 +11,13 @@ git clone https://github.com/Mubangizi/Tourism-Company-Scrapper.git
 2. Setup a virtual environment
 
 ```
-virtualenv venv
+virtualenv venv 
+```
+
+or
+
+```
+python3 -m venv venv
 ```
 
 3. Activate the virtual environment
